@@ -1,3 +1,3 @@
 # vue-admin-template
 
-尚医通医院后台
+名医汇医院后台
